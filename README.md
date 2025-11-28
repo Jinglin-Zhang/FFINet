@@ -13,7 +13,7 @@ FFINet integrates illumination-aware augmentation, federated fine-tuning feature
 
 The architecture of **FFINet** is shown below:
 
-![FFINet.jpg](img.jpg)
+![FFINet.jpg](FFINet.jpg)
 
 FFINet contains three key components:
 
